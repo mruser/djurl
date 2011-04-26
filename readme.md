@@ -42,7 +42,7 @@ Actions should accept the following arguments:
   
 ## N.B.
 
-* Make sure Regex character classes are escaped properly: `\\w+` instead of `\\w`
+* Make sure Regex character classes are escaped properly: `\\w+` instead of `\w+`
 
 ## TODO
 
